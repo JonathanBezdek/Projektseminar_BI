@@ -1,0 +1,201 @@
+﻿Produkt_ID,Markenname,Produktname,Preis,Subkategorie_ID
+1001,German,Leinsamen,2.45,007
+1002,German,Äpfel,1.20,006
+1003,German,Aubergine,3.00,005
+1004,German,Blumenkohl,2.05,005
+1005,German,Brokkoli,1.10,005
+1006,German,grüne Linsen,0.26,003
+1007,German,Berglinsen,1.48,003
+1008,German,rote Linsen,3.05,003
+1009,German,Kichererbsen,2.49,003
+1010,German,Räuchertofu,2.04,004
+1011,German,Wallnüsse,2.15,007
+1012,German,Birnen,0.97,006
+1013,German,Pinienkerne,2.21,007
+1101,Selfcooking,Wallnüsse,1.40,007
+1102,Selfcooking,Äpfel,0.79,006
+1103,Selfcooking,Aubergine,1.15,005
+1104,Selfcooking,Blumenkohl,0.86,005
+1105,Selfcooking,Brokkoli,2.29,005
+1106,Selfcooking,grüne Linsen,1.68,003
+1107,Selfcooking,Berglinsen,0.66,003
+1108,Selfcooking,rote Linsen,2.51,003
+1109,Selfcooking,Kichererbsen,1.23,003
+1110,Selfcooking,Räuchertofu,1.02,004
+1111,Selfcooking,Pinienkerne,1.47,007
+1112,Selfcooking,Birnen,1.31,006
+1113,Selfcooking,Leinsamen,1.14,007
+1201,Biomühle,Dinkelbrot,1.36,010
+1202,Biomühle,Vollkornbrot,1.65,010
+1203,Biomühle,Heidelbeermuffins,1.96,009
+1204,Biomühle,Bagels,1.09,001
+1205,Biomühle,Schokomuffins,1.58,009
+1206,Biomühle,Preiselbeermuffins,1.50,009
+1207,Biomühle,Roggenbrot,3.49,010
+1208,Biomühle,Pumpernickel,2.01,010
+1209,Biomühle,engl. Muffins,1.42,009
+1301,Carmens,Heidelbeerjoghurt,2.58,012
+1302,Carmens,Reisdrink,0.85,008
+1303,Carmens,Dinkeldrink,1.03,008
+1304,Carmens,Mandelmilch,0.60,008
+1305,Carmens,"Cheddar, mild",1.74,002
+1306,Carmens,Sojamilch,1.02,008
+1307,Carmens,Naturjoghurt,1.61,012
+1308,Carmens,Hafermilch,3.05,008
+1309,Carmens,Creme fraiche,0.52,011
+1310,Carmens,Creme legere,2.22,011
+1311,Carmens,Leerdammer,0.71,002
+1312,Carmens,Münster Käse,0.50,002
+1313,Carmens,"Cheddar, scharf",1.35,002
+1314,Carmens,Appenzeller,1.64,002
+1315,Carmens,Old Amsterdam,0.78,002
+1316,Carmens,Havarti Käse,3.39,002
+1317,Carmens,Leerdammer charactere,1.83,002
+1318,Carmens,Leerdammer lite,3.55,002
+1401,Ich Darf,Blumenkohl,1.13,005
+1402,Ich Darf,Aubergine,1.81,005
+1403,Ich Darf,Birnen,1.22,006
+1404,Ich Darf,Brokkoli,0.90,005
+1405,Ich Darf,Seidentofu,2.34,004
+1406,Ich Darf,Äpfel,2.68,006
+1407,Ich Darf,Leinsamen,1.46,007
+1408,Ich Darf,Berglinsen,2.39,003
+1409,Ich Darf,rote Linsen,1.79,003
+1410,Ich Darf,Kichererbsen,2.30,003
+1411,Ich Darf,Wallnüsse,1.37,007
+1412,Ich Darf,Pinienkerne,0.53,007
+1413,Ich Darf,grüne Linsen,1.31,003
+1501,Bioweide,Old Amsterdam,0.96,002
+1502,Bioweide,Appenzeller,0.41,002
+1503,Bioweide,"Cheddar, scharf",0.99,002
+1504,Bioweide,"Cheddar, mild",0.62,002
+1505,Bioweide,Havarti Käse,2.55,002
+1506,Bioweide,Mandelmilch,0.41,008
+1507,Bioweide,Leerdammer,1.80,002
+1508,Bioweide,Dinkeldrink,2.16,008
+1509,Bioweide,Reisdrink,1.03,008
+1510,Bioweide,Hafermilch,2.53,008
+1511,Bioweide,Leerdammer charactere,1.11,002
+1512,Bioweide,Münster Käse,1.43,002
+1513,Bioweide,Creme fraiche,1.85,011
+1514,Bioweide,Creme legere,1.41,011
+1515,Bioweide,Sojamilch,2.93,008
+1516,Bioweide,Naturjoghurt,2.97,012
+1517,Bioweide,Heidelbeerjoghurt,3.12,012
+1518,Bioweide,Leerdammer lite,1.65,002
+1601,Regiomühle,Vollkornbrot,1.30,010
+1602,Regiomühle,Dinkelbrot,0.75,010
+1603,Regiomühle,Pumpernickel,2.69,010
+1604,Regiomühle,engl. Muffins,1.23,009
+1605,Regiomühle,Preiselbeermuffins,1.38,009
+1606,Regiomühle,Schokomuffins,0.59,009
+1607,Regiomühle,Roggenbrot,1.53,010
+1608,Regiomühle,Bagels,2.58,001
+1609,Regiomühle,Heidelbeermuffins,0.61,009
+1701,Black Toast,engl. Muffins,0.96,009
+1702,Black Toast,Pumpernickel,0.22,010
+1703,Black Toast,Roggenbrot,0.67,010
+1704,Black Toast,Preiselbeermuffins,2.05,009
+1705,Black Toast,Schokomuffins,1.22,009
+1706,Black Toast,Bagels,1.26,001
+1707,Black Toast,Heidelbeermuffins,2.30,009
+1708,Black Toast,Dinkelbrot,1.69,010
+1709,Black Toast,Vollkornbrot,2.75,010
+1801,Freiland,engl. Muffins,2.21,009
+1802,Freiland,Dinkelbrot,0.73,010
+1803,Freiland,Heidelbeermuffins,2.50,009
+1804,Freiland,Bagels,1.75,001
+1805,Freiland,Schokomuffins,2.60,009
+1806,Freiland,Preiselbeermuffins,2.58,009
+1807,Freiland,Vollkornbrot,3.03,010
+1808,Freiland,Pumpernickel,3.07,010
+1809,Freiland,Roggenbrot,2.31,010
+1901,Dresdner,Leinsamen,1.40,007
+1902,Dresdner,Kichererbsen,1.75,003
+1903,Dresdner,Birnen,2.60,006
+1904,Dresdner,Äpfel,2.35,006
+1905,Dresdner,Aubergine,2.61,005
+1906,Dresdner,Räuchertofu,0.66,004
+1907,Dresdner,Pinienkerne,0.59,007
+1908,Dresdner,Blumenkohl,2.76,005
+1909,Dresdner,Brokkoli,2.07,005
+1910,Dresdner,grüne Linsen,1.72,003
+1911,Dresdner,Berglinsen,1.54,003
+1912,Dresdner,rote Linsen,0.46,003
+1913,Dresdner,Wallnüsse,3.66,007
+2001,Veggieland,Leinsamen,2.68,007
+2002,Veggieland,rote Linsen,1.83,003
+2003,Veggieland,Pinienkerne,1.69,007
+2004,Veggieland,Wallnüsse,3.68,007
+2005,Veggieland,Kichererbsen,2.34,003
+2006,Veggieland,Berglinsen,1.26,003
+2007,Veggieland,grüne Linsen,1.52,003
+2008,Veggieland,Brokkoli,2.35,005
+2009,Veggieland,Blumenkohl,1.32,005
+2010,Veggieland,Aubergine,3.38,005
+2011,Veggieland,Äpfel,1.78,006
+2012,Veggieland,Birnen,1.29,006
+2013,Veggieland,Seidentofu,2.37,004
+2101,Bergwiese,Appenzeller,2.24,002
+2102,Bergwiese,Hafermilch,0.95,008
+2103,Bergwiese,Heidelbeerjoghurt,0.38,012
+2104,Bergwiese,Havarti Käse,3.07,002
+2105,Bergwiese,Sojamilch,0.54,008
+2106,Bergwiese,Creme legere,0.67,011
+2107,Bergwiese,Reisdrink,1.38,008
+2108,Bergwiese,Dinkeldrink,1.25,008
+2109,Bergwiese,Mandelmilch,3.75,008
+2110,Bergwiese,"Cheddar, mild",2.96,002
+2111,Bergwiese,"Cheddar, scharf",2.79,002
+2112,Bergwiese,Old Amsterdam,2.47,002
+2113,Bergwiese,Leerdammer charactere,2.95,002
+2114,Bergwiese,Leerdammer lite,1.54,002
+2115,Bergwiese,Leerdammer,3.12,002
+2116,Bergwiese,Naturjoghurt,2.06,012
+2117,Bergwiese,Creme fraiche,2.26,011
+2118,Bergwiese,Münster Käse,1.10,002
+2201,Biowelt,Naturjoghurt,3.94,012
+2202,Biowelt,Old Amsterdam,2.60,002
+2203,Biowelt,Leerdammer lite,0.95,002
+2204,Biowelt,Havarti Käse,1.04,002
+2205,Biowelt,Heidelbeerjoghurt,1.82,012
+2206,Biowelt,Appenzeller,0.74,002
+2207,Biowelt,Sojamilch,0.35,008
+2208,Biowelt,Hafermilch,0.89,008
+2209,Biowelt,Reisdrink,2.08,008
+2210,Biowelt,Leerdammer,1.74,002
+2211,Biowelt,Mandelmilch,3.19,008
+2212,Biowelt,"Cheddar, mild",3.17,002
+2213,Biowelt,"Cheddar, scharf",2.02,002
+2214,Biowelt,Creme legere,0.78,011
+2215,Biowelt,Creme fraiche,2.04,011
+2216,Biowelt,Dinkeldrink,0.90,008
+2217,Biowelt,Leerdammer charactere,1.27,002
+2218,Biowelt,Münster Käse,3.74,002
+2301,Regionalvertrieb,Naturjoghurt,0.62,012
+2302,Regionalvertrieb,Sojamilch,2.58,008
+2303,Regionalvertrieb,Hafermilch,1.18,008
+2304,Regionalvertrieb,Reisdrink,1.78,008
+2305,Regionalvertrieb,Dinkeldrink,0.62,008
+2306,Regionalvertrieb,"Cheddar, mild",2.51,002
+2307,Regionalvertrieb,"Cheddar, scharf",2.72,002
+2308,Regionalvertrieb,Heidelbeerjoghurt,3.50,012
+2309,Regionalvertrieb,Mandelmilch,0.68,008
+2310,Regionalvertrieb,Old Amsterdam,1.24,002
+2311,Regionalvertrieb,Havarti Käse,3.10,002
+2312,Regionalvertrieb,Leerdammer charactere,3.28,002
+2313,Regionalvertrieb,Leerdammer lite,1.48,002
+2314,Regionalvertrieb,Münster Käse,1.56,002
+2315,Regionalvertrieb,Leerdammer,3.22,002
+2316,Regionalvertrieb,Creme legere,1.93,011
+2317,Regionalvertrieb,Appenzeller,1.58,002
+2318,Regionalvertrieb,Creme fraiche,0.47,011
+2401,Sachsenmühle,Dinkelbrot,0.36,010
+2402,Sachsenmühle,Pumpernickel,0.67,010
+2403,Sachsenmühle,Vollkornbrot,0.65,010
+2404,Sachsenmühle,Roggenbrot,3.57,010
+2405,Sachsenmühle,engl. Muffins,1.50,009
+2406,Sachsenmühle,Preiselbeermuffins,2.45,009
+2407,Sachsenmühle,Bagels,3.20,001
+2408,Sachsenmühle,Heidelbeermuffins,1.10,009
+2409,Sachsenmühle,Schokomuffins,1.57,009
